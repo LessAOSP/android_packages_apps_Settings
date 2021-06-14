@@ -121,4 +121,8 @@
     <string name="face_unlock_method_default">When the screen is turned on</string>
     <string name="face_unlock_method_swipe">When swiping on lock screen</string>
 
+    <!-- Mantle -->
+    <string name="lessaosp_dashboard_title">Mantle</string>
+    <string name="lessaosp_dashboard_summary">Cloak your device with features</string>
+
 </resources>
